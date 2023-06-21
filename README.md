@@ -88,6 +88,12 @@ cd vet-clinic
 - LinkedIn: [Jawad-Nazari](https://www.linkedin.com/in/jawad-nazari/)
 - Twitter: [@nazari_jawad58](https://twitter.com/nazari_jawad58)
 
+
+👤 **Ernest Korir**
+
+- GitHub: [@ErnestKorir](https://github.com/ernestkorir)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/ernest-korir/)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
