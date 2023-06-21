@@ -47,3 +47,9 @@ CREATE INDEX med_histories_treatments_index ON med_histories_treatments(med_hist
 CREATE INDEX med_histories_treatments_treatment_id_index ON med_histories_treatments(treatment_id);
 CREATE INDEX invoices_medical_history_id_index ON invoices(medical_history_id);
 
+CREATE TABLE med_histories_treatments (
+    med_history_id INT,
+    treatment_id INT,
+    FOREIGN KEY (med_history_id) REFERENCES medical_histories(id),
+    FOREIGN KEY (treatment_id) REFERENCES treatments(id)
+);
